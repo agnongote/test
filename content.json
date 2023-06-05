@@ -1,1 +1,12 @@
-{}
+{
+  "custom-field": "chambre",
+  "custom-object": {
+    "custom-line": "client",
+    "custom-text": "Un client reserve une chambre"
+  },
+  "custom-list": [
+    {
+      "custom-list-item": "reservation"
+    }
+  ]
+}
